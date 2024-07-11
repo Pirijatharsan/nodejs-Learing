@@ -1,0 +1,19 @@
+{
+  "name": "apple",
+  "version": "1.0.0",
+  "description": "best developer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "cricket"
+  ],
+  "author": "Tamil",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
